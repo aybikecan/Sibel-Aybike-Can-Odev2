@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sibel-Aybike-Can-Odev2</string>
+
+    <string name="let_s_get_s">
+        Let\u00E2\u0080\u0099s Get\nStarted
+    </string>
+
+    <string name="back_button">
+        B
+    </string>
+
+    <string name="welcome_bac">
+        Welcome Back!
+    </string>
+
+    <string name="login">
+        LOGIN
+    </string>
+
+    <string name="sign_up">
+        Sign Up
+    </string>
+
+
+
+
+
+
+</resources>
